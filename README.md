@@ -1,16 +1,19 @@
-# Voice Calculator
+# Voice Calculator - Smart Voice-Activated Calculator
 
-A modern web application that allows users to perform calculations using voice commands. The calculator supports basic arithmetic operations and provides both visual and audio feedback.
+A modern, intelligent web application that transforms your voice into precise calculations. This calculator understands natural language and supports multiple languages, making it perfect for quick calculations without typing. Built with React and TypeScript, it features a sleek Material-UI design and advanced voice recognition capabilities.
 
 ## Features
 
-- Voice input for mathematical expressions
-- Real-time display of expressions and results
-- Text-to-speech output of results
-- Calculation history with timestamps
-- Error handling for invalid inputs
-- Clear/Reset functionality
-- Modern, responsive UI using Material-UI
+- 🎤 Voice input for mathematical expressions in multiple languages
+- 🔢 Real-time display of expressions and results
+- 🔊 Text-to-speech output of results
+- 📝 Calculation history with timestamps
+- ⚡ Unit conversion support
+- 🌐 Multi-language support
+- ⏱️ Built-in timer functionality
+- 🎨 Modern, responsive UI using Material-UI
+- ⚠️ Smart error handling for invalid inputs
+- 🔄 Clear/Reset functionality
 
 ## Prerequisites
 
