@@ -17,6 +17,8 @@ import {
   Slide,
   ToggleButton,
   ToggleButtonGroup,
+  AppBar,
+  Toolbar,
 } from '@mui/material';
 import MicIcon from '@mui/icons-material/Mic';
 import MicOffIcon from '@mui/icons-material/MicOff';
@@ -27,6 +29,16 @@ import CalculateIcon from '@mui/icons-material/Calculate';
 import { keyframes } from '@mui/system';
 import AdSense from './components/AdSense';
 import ManualCalculator from './components/ManualCalculator';
+import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import Calculator from './components/Calculator';
+import UnitConverter from './components/UnitConverter';
+import VoiceToText from './components/VoiceToText';
+import LanguageTranslator from './components/LanguageTranslator';
+import Timer from './components/Timer';
+import PrivacyPolicy from './components/PrivacyPolicy';
+import TermsOfService from './components/TermsOfService';
+import Contact from './components/Contact';
+import About from './components/About';
 
 interface Calculation {
   expression: string;
