@@ -69,4 +69,4 @@ This application uses the Web Speech API, which is best supported in Chrome and 
 
 ## License
 
-MIT 
+MIT
