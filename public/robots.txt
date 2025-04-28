@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kasaicraft.github.io/calculator/sitemap.xml 
